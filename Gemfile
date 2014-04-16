@@ -14,6 +14,7 @@ gem 'factory_girl'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'kaminari'
 gem 'devise'
+gem 'textacular'
 
 group :development do
   gem 'better_errors'
