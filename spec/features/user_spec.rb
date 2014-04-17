@@ -9,7 +9,6 @@ def create_new_user
     click_button 'Sign up'
 end
 
-
 feature 'signing up new users' do
   scenario 'add a new user with email and password on the sign up page' do
     create_new_user

@@ -5,7 +5,7 @@ Development:  Ruby, Rails, Devise, PSQL, AJAX, FactoryGirl, Capybara, Geocoder, 
 
 * [DONE] As a user, I want to securely login (Devise) and manage my profile.
 * [DONE] Change sign up requirement from email to username.
-* Create a factory for user creation (Factory Girl).
+* [DONE] Create a factory for user creation (Factory Girl).
 * As a user, I want to receive email for various event triggers.
 * As a user, I want to add listings for rent.
 * As a renter, I want to securely login and find listings to rent by location.
