@@ -1,6 +1,9 @@
-==Airbnb clone
+Airbnb clone
+
 Authors: Elikem Adadevoh and Kelly Becker
+
 Objective:  Create an AirBnB clone
+
 Development:  Ruby, Rails, Devise, PSQL, AJAX, FactoryGirl, Capybara, Geocoder, Array#sample
 
 * [DONE] As a user, I want to securely login (Devise) and manage my profile.
